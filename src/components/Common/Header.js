@@ -58,7 +58,7 @@ transition: transform .15s ease, box-shadow .15s ease; backdrop-filter: blur(6px
 
 
 <div className="hh-actions">
-<span className="welcome-pill">Welcome</span>
+
 {/* Optional quick links that align with the theme but keep Header API unchanged */}
 <button className="hh-btn" onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}>Top</button>
 </div>

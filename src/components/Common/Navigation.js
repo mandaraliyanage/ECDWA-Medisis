@@ -11,7 +11,7 @@ const Navigation = ({ activeTab, setActiveTab }) => {
     { key: 'dashboard', label: 'Dashboard' },
     { key: 'patients', label: 'Patients' },
     { key: 'alerts', label: 'Alerts' },
-    { key: 'test', label: 'Test Center' },
+    { key: 'test', label: 'Diagnostics Hub' },
   ];
 
   return (
