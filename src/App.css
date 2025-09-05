@@ -809,7 +809,7 @@ header {
 
 /* Telemetry Form Styles */
 .telemetry-form-container {
-  background: white;
+
   padding: 2rem;
   border-radius: var(--border-radius);
   box-shadow: var(--box-shadow);
