@@ -286,9 +286,9 @@ const PatientsView = ({ patients }) => {
               />
               Cards
             </label>
-            <button onClick={handleAddPatient} className="pv-primary-btn">
+            {/* <button onClick={handleAddPatient} className="pv-primary-btn">
               <span className="pv-plus" aria-hidden>+</span> Add Patient
-            </button>
+            </button> */}
           </div>
         </div>
       </div>
